@@ -1,1 +1,2 @@
-index.html and Css files
+index.html and style.css
+
